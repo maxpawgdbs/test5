@@ -1,1 +1,14 @@
 человечки одинаковы, различны файлы readme, а также разны логи
+
+11 комитов
+test
+Merge branch 'boots_buttons'
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
